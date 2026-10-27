@@ -178,9 +178,4 @@ The final model achieved a **Silhouette Score of approximately 0.55**, indicatin
 
 The segmentation results provide valuable insights into customer spending patterns, allowing the marketing team to develop more targeted strategies for customer engagement, retention, and transaction growth.
 
-## Author
-
-**Amanda Amalia Putriprayogi**
-
-Industrial Engineering Graduate | Data Science Enthusiast
 
