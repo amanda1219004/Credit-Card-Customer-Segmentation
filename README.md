@@ -177,5 +177,3 @@ This project successfully implemented **K-Means Clustering with PCA** to identif
 The final model achieved a **Silhouette Score of approximately 0.55**, indicating relatively good cluster separation.
 
 The segmentation results provide valuable insights into customer spending patterns, allowing the marketing team to develop more targeted strategies for customer engagement, retention, and transaction growth.
-
-
